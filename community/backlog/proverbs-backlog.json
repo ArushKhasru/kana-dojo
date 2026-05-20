@@ -168,7 +168,7 @@
     "english": "Even a walking dog will hit a stick",
     "meaning": "Try anything and you might get lucky (or unlucky)",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 36,
@@ -329,7 +329,7 @@
     "romaji": "Deru kugi wa utareru",
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Those who stand out may be criticized",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -348,7 +348,7 @@
     "english": "Tomorrow's wind will blow tomorrow",
     "meaning": "Don't worry too much about the future",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 40,
@@ -636,7 +636,7 @@
     "english": "An iron club to an ogre",
     "meaning": "Making someone strong even stronger",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 72,
@@ -645,7 +645,7 @@
     "english": "Water on a hot stone",
     "meaning": "A futile effort with little effect",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 73,
@@ -969,7 +969,7 @@
     "english": "Tap a stone bridge before crossing",
     "meaning": "Be very cautious",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 109,
@@ -1014,7 +1014,7 @@
     "english": "An iron club to an ogre",
     "meaning": "Adding strength to the strong",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 114,
@@ -1196,7 +1196,7 @@
     "english": "A three-day monk",
     "meaning": "Someone who quits quickly",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 134,
@@ -1250,7 +1250,7 @@
     "english": "Spilled water will not return to the tray",
     "meaning": "What is done cannot be undone",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 140,
@@ -1576,7 +1576,7 @@
     "english": "Among flowers, cherry blossoms; among men, warriors",
     "meaning": "The best of each kind",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 176,

@@ -164,7 +164,7 @@
   {
     "id": 28,
     "fact": "There are special 'women-only' train cars in Japan during rush hour to prevent groping - marked with pink signs and available on most major lines.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -344,7 +344,7 @@
   {
     "id": 58,
     "fact": "Japan's Seikan Tunnel connecting Honshu and Hokkaido is the world's longest undersea tunnel at 53.85 kilometers.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -392,7 +392,7 @@
   {
     "id": 66,
     "fact": "Japan has a museum entirely dedicated to parasites in Tokyo, featuring a 9-meter tapeworm as its star attraction.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -410,7 +410,7 @@
   {
     "id": 69,
     "fact": "The Japanese word 'koi no yokan' (恋の予感) describes knowing you'll inevitably fall in love with someone you just met.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -494,7 +494,7 @@
   {
     "id": 83,
     "fact": "There's a Japanese word 'nekojita' (猫舌) meaning 'cat tongue' - someone who can't eat or drink hot things.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "id": 97,
     "fact": "The word 'majime' (真面目) describes someone earnest and sincere - a highly valued personality trait in Japanese culture.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "id": 111,
     "fact": "There's a Japanese practice 'ohitori-sama' (お一人様) celebrating doing things alone - solo dining, traveling, and living.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -680,7 +680,7 @@
   {
     "id": 114,
     "fact": "Japan has an 'everlasting love' museum in Hokkaido dedicated to sculptor Takeichi Nishimura's 60-year love for his wife.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -800,7 +800,7 @@
   {
     "id": 134,
     "fact": "Japan has 'standing sleeping' car handles on trains designed for exhausted commuters to rest their heads during travel.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1400,7 +1400,7 @@
   {
     "id": 234,
     "fact": "The word 'shiokaze' (潮風) means sea breeze, and coastal towns often write it into song lyrics and seasonal postcards.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1820,7 +1820,7 @@
   {
     "id": 304,
     "fact": "Japan’s 'hanami' tradition often includes picnic mats, bento boxes, and seasonal sweets under the cherry trees.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
